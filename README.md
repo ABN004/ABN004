@@ -1,6 +1,7 @@
 ![logo](https://ik.imagekit.io/ABN/Black%20Modern%20Vlogger%20YouTube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Amal B Nair</h1>
 <h3 align="center">Svelte & React Developer | Backend Lover | DevOps Fan</h3>
+<img align="center" src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Fullstack+Developer;" height="40"/>
 <img align="right" width="400px" alt="abn004" src="https://ik.imagekit.io/ABN/night_coder.gif" alt="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abn004&label=Profile%20views&color=0e75b6&style=flat" alt="abn004" /> </p>
 
